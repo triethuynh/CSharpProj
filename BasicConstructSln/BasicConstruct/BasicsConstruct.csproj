@@ -51,7 +51,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BasicContructClassLibrary\BasicConstructClassLibrary.csproj">
+    <ProjectReference Include="..\BasicConstructClassLibrary\BasicConstructClassLibrary.csproj">
       <Project>{315a7e81-0f18-43bd-b2e2-c910cb1ffe4f}</Project>
       <Name>BasicConstructClassLibrary</Name>
     </ProjectReference>
